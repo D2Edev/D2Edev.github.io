@@ -1,6 +1,0 @@
-04.08.2015  15:50            99 853 stage_all_resuts.png
-04.08.2015  15:52            64 422 stage_game_mid.png
-04.08.2015  15:52            62 756 stage_game_over.png
-04.08.2015  15:51            69 685 stage_game_start.png
-04.08.2015  15:53           130 011 stage_rules.png
-04.08.2015  15:50            81 963 stage_start.png
